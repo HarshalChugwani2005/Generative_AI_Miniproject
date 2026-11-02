@@ -1,0 +1,174 @@
+[
+  {
+    "order_id": "SE12345",
+    "customer_name": "Riya Sharma",
+    "order_date": "2026-10-28",
+    "status": "Shipped",
+    "items": [
+      {"name": "boAt Rockerz 450 Bluetooth Headphones", "quantity": 1, "price": 1499}
+    ],
+    "total_amount": 1499,
+    "payment_method": "UPI",
+    "delivery_city": "Mumbai",
+    "courier": "BlueDart",
+    "tracking_number": "BD7845123690",
+    "expected_delivery": "2026-11-03",
+    "delivered_on": null,
+    "notes": "Package left the Bhiwandi warehouse and is in transit to Mumbai."
+  },
+  {
+    "order_id": "SE12346",
+    "customer_name": "Arjun Mehta",
+    "order_date": "2026-10-20",
+    "status": "Delivered",
+    "items": [
+      {"name": "Prestige Iris 750W Mixer Grinder", "quantity": 1, "price": 3299},
+      {"name": "Milton Thermosteel Flask 1L", "quantity": 2, "price": 799}
+    ],
+    "total_amount": 4897,
+    "payment_method": "Credit Card (6-month EMI)",
+    "delivery_city": "Pune",
+    "courier": "Delhivery",
+    "tracking_number": "DL5523901147",
+    "expected_delivery": "2026-10-25",
+    "delivered_on": "2026-10-24",
+    "notes": "Delivered and signed for by the customer."
+  },
+  {
+    "order_id": "SE12347",
+    "customer_name": "Sneha Iyer",
+    "order_date": "2026-11-01",
+    "status": "Processing",
+    "items": [
+      {"name": "Levi's Men's 511 Slim Fit Jeans (32W)", "quantity": 1, "price": 2599}
+    ],
+    "total_amount": 2599,
+    "payment_method": "Debit Card",
+    "delivery_city": "Chennai",
+    "courier": null,
+    "tracking_number": null,
+    "expected_delivery": "2026-11-06",
+    "delivered_on": null,
+    "notes": "Seller is packing the order. It will be handed to the courier within 24 hours."
+  },
+  {
+    "order_id": "SE12348",
+    "customer_name": "Mohammed Faiz",
+    "order_date": "2026-10-30",
+    "status": "Out for Delivery",
+    "items": [
+      {"name": "Samsung Galaxy M35 5G (8GB/128GB)", "quantity": 1, "price": 16999}
+    ],
+    "total_amount": 16999,
+    "payment_method": "Cash on Delivery",
+    "delivery_city": "Hyderabad",
+    "courier": "Ekart",
+    "tracking_number": "EK9081726354",
+    "expected_delivery": "2026-11-02",
+    "delivered_on": null,
+    "notes": "Out for delivery today. Please keep ₹16,999 (plus ₹20 COD fee) ready in cash or UPI."
+  },
+  {
+    "order_id": "SE12349",
+    "customer_name": "Priya Nair",
+    "order_date": "2026-10-15",
+    "status": "Refunded",
+    "items": [
+      {"name": "Women's Cotton Kurta Set (M)", "quantity": 1, "price": 1199}
+    ],
+    "total_amount": 1199,
+    "payment_method": "UPI",
+    "delivery_city": "Kochi",
+    "courier": "Delhivery",
+    "tracking_number": "DL5523907788",
+    "expected_delivery": "2026-10-21",
+    "delivered_on": "2026-10-20",
+    "notes": "Returned due to size issue. Refund of ₹1,199 credited to the original UPI account on 2026-10-27 (RRN 629874512367)."
+  },
+  {
+    "order_id": "SE12350",
+    "customer_name": "Karan Singh",
+    "order_date": "2026-10-29",
+    "status": "Cancelled",
+    "items": [
+      {"name": "Philips Air Fryer HD9200 (4.1L)", "quantity": 1, "price": 6499}
+    ],
+    "total_amount": 6499,
+    "payment_method": "Credit Card",
+    "delivery_city": "Delhi",
+    "courier": null,
+    "tracking_number": null,
+    "expected_delivery": null,
+    "delivered_on": null,
+    "notes": "Cancelled by the customer on 2026-10-30 before shipping. Refund of ₹6,499 initiated to the credit card on 2026-10-30; it may take 5-7 business days to reflect."
+  },
+  {
+    "order_id": "SE12351",
+    "customer_name": "Ananya Gupta",
+    "order_date": "2026-10-18",
+    "status": "Return Requested",
+    "items": [
+      {"name": "Nike Revolution 7 Running Shoes (UK 6)", "quantity": 1, "price": 3695}
+    ],
+    "total_amount": 3695,
+    "payment_method": "UPI",
+    "delivery_city": "Bengaluru",
+    "courier": "Shadowfax",
+    "tracking_number": "SF4412098765",
+    "expected_delivery": "2026-10-22",
+    "delivered_on": "2026-10-22",
+    "notes": "Return requested on 2026-10-31 (reason: size too small). Pickup scheduled for 2026-11-03 between 10 AM and 6 PM."
+  },
+  {
+    "order_id": "SE12352",
+    "customer_name": "Vikram Rao",
+    "order_date": "2026-11-02",
+    "status": "Placed",
+    "items": [
+      {"name": "Atomic Habits (Paperback) by James Clear", "quantity": 1, "price": 399},
+      {"name": "The Psychology of Money (Paperback) by Morgan Housel", "quantity": 1, "price": 349}
+    ],
+    "total_amount": 748,
+    "payment_method": "ShopEasy Wallet",
+    "delivery_city": "Nagpur",
+    "courier": null,
+    "tracking_number": null,
+    "expected_delivery": "2026-11-09",
+    "delivered_on": null,
+    "notes": "Order received and awaiting seller confirmation."
+  },
+  {
+    "order_id": "SE12353",
+    "customer_name": "Neha Kulkarni",
+    "order_date": "2026-10-22",
+    "status": "Shipped",
+    "items": [
+      {"name": "Lenovo IdeaPad Slim 3 Laptop (Ryzen 5, 16GB/512GB)", "quantity": 1, "price": 48990}
+    ],
+    "total_amount": 48990,
+    "payment_method": "Credit Card (No-cost EMI, 12 months)",
+    "delivery_city": "Nashik",
+    "courier": "BlueDart",
+    "tracking_number": "BD7845129012",
+    "expected_delivery": "2026-10-29",
+    "delivered_on": null,
+    "notes": "Delayed: shipment held at the Nashik hub due to heavy rain. Revised expected delivery is 2026-11-04."
+  },
+  {
+    "order_id": "SE12354",
+    "customer_name": "Rahul Verma",
+    "order_date": "2026-10-10",
+    "status": "Delivered",
+    "items": [
+      {"name": "Mi Smart LED TV 43 inch (4K)", "quantity": 1, "price": 26999}
+    ],
+    "total_amount": 26999,
+    "payment_method": "Net Banking",
+    "delivery_city": "Jaipur",
+    "courier": "Ekart",
+    "tracking_number": "EK9081720011",
+    "expected_delivery": "2026-10-16",
+    "delivered_on": "2026-10-15",
+    "notes": "Delivered. Free installation completed on 2026-10-17. Covered by 1-year manufacturer warranty."
+  }
+]
