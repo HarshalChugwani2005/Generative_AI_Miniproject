@@ -1,0 +1,19 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Virtual environment
+.venv/
+venv/
+
+# Generated at runtime
+vectorstore/
+data/tickets.json
+data/feedback.json
+data/chat_log.jsonl
+data/order_updates.json
+*.tmp
+
+# Python cache
+__pycache__/
+*.pyc

@@ -1,0 +1,11 @@
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+vectorstore/
+__pycache__/
+*.pyc
+data/tickets.json
+data/feedback.json
+data/chat_log.jsonl
+.git/

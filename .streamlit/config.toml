@@ -1,0 +1,17 @@
+# Streamlit settings for the ShopEasy support app.
+# Colours here style Streamlit's native widgets (sliders, toggles, checkboxes).
+# Everything else, including dark mode, is handled by the custom CSS in ui.py.
+
+[theme]
+base = "light"
+primaryColor = "#4F46E5"
+backgroundColor = "#F5F6FA"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#111827"
+
+[client]
+# Hide the "Deploy" button and developer menu items.
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
